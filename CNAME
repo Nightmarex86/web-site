@@ -1,1 +1,4 @@
-www.h4ck3r.com
+
+$ dig WWW.h4ck3r.COM +nostats +nocomments +nocmd
+    > ;WWW.h4ck3r.COM.                     IN      A
+    > WWW.h4ck3r.COM.              3592    IN      CNAME   Nightmarex86.github.io.
